@@ -1,2 +1,11 @@
 .specstory/
+
+# python
 .ipynb_checkpoints/
+__pycache__
+
+# big ol model data files from actual GPT2
+gpt2/
+
+# smaller model data files from local notebooks
+*.pth 
